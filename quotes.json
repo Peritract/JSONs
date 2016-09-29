@@ -1,12 +1,37 @@
-[{"author":"Lady Macbeth","quote":"Who would have thought the old man to have had so much blood in him?"},
- {"author":"Prospero","quote":"I'll drown my books."},
- {"author":"Henry V","quote":"I know thee not, old man."},
- {"author":"Romeo","quote":"It is the East, and Juliet is the sun."},
- {"author":"Miranda","quote":"O brave new world, that has such people in 't."},
- {"author":"Juliet","quote":"O happy dagger!"},
- {"author":"Friar Lawrence","quote":"These violent delights have violent ends."},
- {"author":"Macbeth","quote":"I have done the deed."},
- {"author":"Iago","quote":"I hate the Moor, and it is thought abroad that 'twixt my sheets he has done my office."},
- {"author":"Don John","quote":"If I had my liberty, I would do my liking."},
- {"author":"Puck","quote":"If we shadows have offended, think but this, and all is mended."},
-]
+[{
+	"author": "Lady Macbeth",
+	"quote": "Who would have thought the old man to have had so much blood in him?"
+}, {
+	"author": "Prospero",
+	"quote": "I'll drown my books."
+}, {
+	"author": "Henry V",
+	"quote": "I know thee not, old man."
+}, {
+	"author": "Romeo",
+	"quote": "It is the East, and Juliet is the sun."
+}, {
+	"author": "Miranda",
+	"quote": "O brave new world, that has such people in 't."
+}, {
+	"author": "Juliet",
+	"quote": "O happy dagger!"
+}, {
+	"author": "Friar Lawrence",
+	"quote": "These violent delights have violent ends."
+}, {
+	"author": "Macbeth",
+	"quote": "I have done the deed."
+}, {
+	"author": "Iago",
+	"quote": "I hate the Moor, and it is thought abroad that 'twixt my sheets he has done my office."
+}, {
+	"author": "Don John",
+	"quote": "If I had my liberty, I would do my liking."
+}, {
+	"author": "Puck",
+	"quote": "If we shadows have offended, think but this, and all is mended."
+}, {
+ "author": "Shylock",
+ "quote": "If you prick us, do we not bleed?"
+}]
