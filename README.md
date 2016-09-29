@@ -1,2 +1,1 @@
-# Quotes
-Trying to build a quotes JSON
+This is a JSON filled with Shakespeare quotes, for use in a random quote generator.
